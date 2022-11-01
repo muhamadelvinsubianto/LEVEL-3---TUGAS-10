@@ -1,3 +1,10 @@
+
+
+![Screenshot (26)](https://user-images.githubusercontent.com/55907877/199275112-aa0703ce-f2bd-4501-a253-c53b506f1ed0.png)
+![Screenshot (27)](https://user-images.githubusercontent.com/55907877/199275192-2858be6b-7efc-46da-89df-fe808d4614ab.png)
+![Screenshot (28)](https://user-images.githubusercontent.com/55907877/199275244-c80e5596-250f-4996-b365-1e8f719e08b2.png)
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
@@ -9,9 +16,7 @@
 
 ## About Laravel
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to ![Screenshot (26)](https://user-images.githubusercontent.com/55907877/199275112-aa0703ce-f2bd-4501-a253-c53b506f1ed0.png)
-![Screenshot (27)](https://user-images.githubusercontent.com/55907877/199275192-2858be6b-7efc-46da-89df-fe808d4614ab.png)
-![Screenshot (28)](https://user-images.githubusercontent.com/55907877/199275244-c80e5596-250f-4996-b365-1e8f719e08b2.png)
+Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to 
 be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
 - [Simple, fast routing engine](https://laravel.com/docs/routing).
